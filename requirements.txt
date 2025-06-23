@@ -1,0 +1,13 @@
+acoustics==0.2.6
+datasets==3.6.0
+librosa==0.11.0
+matplotlib==3.10.3
+mutagen==1.47.0
+onnx==1.18.0
+openai==1.90.0
+openwakeword==0.4.0
+pyaudio==0.2.14
+scipy==1.15.3
+soundfile==0.13.1
+speechbrain==1.0.3
+speexdsp-ns==0.1.2
