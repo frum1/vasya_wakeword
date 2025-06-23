@@ -89,7 +89,7 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-Скачать [датасет]("drive.google.com")
+Скачать [датасет]("https://drive.google.com/file/d/1K1zZvvNpUsAFaaX-PQAh_0awjQh9LZoJ/view?usp=sharing")
 или
 настроить гиперпараметры и сгенерировать свой с помощью `tts_gen.py`
 ```bash
